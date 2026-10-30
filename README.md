@@ -50,7 +50,7 @@ The main aim of this project is to make visual information easier to understand 
 - To provide useful information through audio and visual feedback.
 - To explore practical applications of Computer Vision and Embedded AI.
 
-## 🚀 Applications
+## Applications
 
 - Reading and understanding printed text.
 - Recognizing text from images.
@@ -73,8 +73,3 @@ The main aim of this project is to make visual information easier to understand 
 
 This project explores the integration of embedded hardware, Artificial Intelligence, and Computer Vision to develop a practical smart assistance system.
 
----
-
-### 💡 Turning Vision into Intelligent Assistance!
-
-⭐ If you find this project interesting, feel free to explore this repository.
